@@ -9,7 +9,8 @@
     <!-- Read the readme.txt file in the AppDeploy package folder (typically at "..\packages\AppDeploy[version]\") for help using app deploy. -->
     <!--<BatchCommandVariables>var1=value1;var2=value2</BatchCommandVariables>-->
     <!--<DestinationFilePath>d$\Program Files\EBSCO\$(AppTypeFolder)\$(AppName)</DestinationFilePath>-->
-    <DestinationFilePath>d$\SSIS_Packages\CoreServices\Currency</DestinationFilePath>
+    <DestinationFilePath>d$\SSIS_Packages\MyCustomPath
+</DestinationFilePath>
 
     
   </PropertyGroup>
