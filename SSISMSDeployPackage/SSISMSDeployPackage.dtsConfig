@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+  <DTSConfigurationHeading>
+    <DTSConfigurationFileInfo 
+      GeneratedBy="defaultUser" 
+      GeneratedFromPackageName="CustomFileImport" 
+      GeneratedFromPackageID="{F61C3B4B-0B9E-41BE-9B7B-5D73371A0E48}" 
+      GeneratedDate="2/6/2017 10:28:28 AM"/>
+  </DTSConfigurationHeading>
+  <Configuration 
+    ConfiguredType="Property" 
+    Path="\Package.Connections[MyDatabase].Properties[ConnectionString]" 
+    ValueType="String">
+    <ConfiguredValue>Data Source=SQLServer01D;Initial Catalog=Northwind;Integrated Security=True;Application Name=SSISMSDeployPackage</ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>

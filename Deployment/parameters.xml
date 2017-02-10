@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parameters>
+  <parameter name="DTSConfig-MyDatabaseConnection"
+            description="Specifies the connection string for MyDatabase."
+            defaultValue="DefaultConnection">
+    <parameterEntry
+         kind="XmlFile"
+         scope="\\*.\.dtsConfig"
+         match="//ConfiguredValue/appSettings/add[@key='MySetting']/@value" />
+  </parameter>
+</parameters>
