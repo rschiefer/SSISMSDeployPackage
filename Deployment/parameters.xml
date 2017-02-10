@@ -6,6 +6,6 @@
     <parameterEntry
          kind="XmlFile"
          scope="\\*.\.dtsConfig"
-         match="//ConfiguredValue/appSettings/add[@key='MySetting']/@value" />
+         match="//Configuration[contains(@Path,'MyDatabase')]/ConfiguredValue/text()" />
   </parameter>
 </parameters>
