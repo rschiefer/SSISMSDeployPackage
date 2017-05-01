@@ -22,7 +22,7 @@
           <SSIS:Property SSIS:Name="VersionComments">
           </SSIS:Property>
           <SSIS:Property SSIS:Name="CreationDate">2017-02-10T10:12:51.827393-06:00</SSIS:Property>
-          <SSIS:Property SSIS:Name="CreatorName">EBSCO\rschiefer1</SSIS:Property>
+          <SSIS:Property SSIS:Name="CreatorName">acme\rschiefer</SSIS:Property>
           <SSIS:Property SSIS:Name="CreatorComputerName">WEBDEV-28CJZC</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
